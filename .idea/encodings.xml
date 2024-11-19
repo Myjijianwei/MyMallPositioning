@@ -3,8 +3,29 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/common/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/commons/common_utils/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/commons/common_utils/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/commons/service_base/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/commons/service_base/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/commons/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/commons/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service/service_device/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service/service_device/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service/service_location/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service/service_location/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service/service_user/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service/service_user/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/services/service_alter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/services/service_devices/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/services/service_location/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/services/service_tracking/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/services/service_users/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/services/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/services/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
   </component>
